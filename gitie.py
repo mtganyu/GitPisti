@@ -1,5 +1,5 @@
 def introduce():
-    return "Hello, I'm Gittie!"
+    return "Hello, Csanad meleg!"
 def joke():
     return "kóder pisti"
 def add():
