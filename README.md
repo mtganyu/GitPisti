@@ -1,0 +1,2 @@
+# GitPisti
+Git egylet
